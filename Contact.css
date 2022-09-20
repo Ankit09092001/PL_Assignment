@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+.container {
+  margin: 20px;
+  margin-top: 230px;
+  margin-left: 400px;
+  padding: 10px 20px;
+  background-color: aqua;
+  border-radius: 20px;
+  width: 700px;
+}
+.btn {
+  margin-left: 10px;
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+button a {
+  color: white;
+  text-decoration: none;
+}
