@@ -11,6 +11,9 @@ body {
   height: 100vh;
  
 }
+#ankit{
+  color: black;
+}
 .nav1 {
     display: flex;
   margin-left: 75vw;
